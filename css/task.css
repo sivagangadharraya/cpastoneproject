@@ -1,0 +1,61 @@
+body{
+	margin-left: 250px;
+	
+	
+}
+a{
+	 padding-right: 30px;
+}
+u{
+	color: blue;
+
+}
+div{
+	background: lightgray;
+	height: 250px;
+	width: 2000px;
+}
+pre{
+	position: relative;
+	left: 50px;
+	top:40px;
+	font-size: 20px;
+}
+.form{
+	height: 200px;
+	width: 2000px;
+	background: white;
+	
+}
+table{
+	width:2000px;
+}	
+.list{
+	height: 200px;
+	width: 400px;
+	float: right;
+	background: yellow;
+}
+.u{
+	text-align-last: right;
+	width: 2000px;
+
+}
+textarea{
+	width: 150px;
+}
+p{
+	width: 2000px;
+}
+hr{
+	width: 2000px;
+	float: left;
+}
+#c{
+	font-size: 20px;
+	padding-top: 100px;
+
+}
+
+
+	

@@ -1,0 +1,203 @@
+.a{
+	height: 1600px;
+	width: 2000px;
+	border: 5px solid black;
+	background: lightgray;
+}
+.b{
+	height: 100px;
+	width: 2000px;
+	background: white;
+	margin-top: 50px;
+}
+.c{
+	height: 1250px;
+	width: 500px;
+	background: white;
+	margin-top: 50px;
+	margin-left: 50px;
+	float: left;
+}
+.d{
+	height: 600px;
+	width: 1300px;
+	background: white;
+	margin-top: 50px;
+	margin-left: 80px;
+	float: left;
+}
+.e{
+	height: 600px;
+	width: 1300px;
+	background:white;
+	margin-top: 50px;
+	margin-right: 70px;
+	float: right;
+}
+button{
+	height: 80px;
+	width: 150px;
+	background: orange;
+	margin-top: 10px;
+	border-radius: 10px;
+	font-size: 25px;
+}
+.h{
+	background: lightblue;
+}
+.t{
+	background: lightgreen;
+}
+i{
+	font-size: 250px;
+	border: 15px solid blue;
+	border-radius: 50%;
+	margin-top: 50px;
+}
+h1{
+	font-size: 50px;
+}
+pre{
+	font-size: 30px;
+}
+.F{
+	background: blue;
+	color: white;
+	font-size: 30px;
+}
+.M{
+	background: white;
+	font-size: 30px;
+	color: blue;
+}
+#a{
+	font-size: 50px;
+	background: black;
+}
+label{
+	font-size: 40px;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+input[type]{
+	margin-left: 70px;
+	margin-top: 40px;
+	height: 40px;
+	width: 1000px;
+	font-size: 40px;
+}
+#email{
+	margin-left: 145px;
+}
+#phone{
+	margin-left: 140px;
+}
+#mobile{
+	margin-left: 125px;
+}
+#address{
+	margin-left: 110px;
+}
+.mail{
+	margin-top: 20px;
+}
+.save{
+	margin-left:260px;
+	margin-top: 50px;
+	height: 60px;
+	width: 250px;
+	background: blue;
+	color: white;
+	font-size: 25px;
+}
+#icon{
+	font-size: 70px;
+	border: 0px blue;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+h2{
+	font-size: 30px;
+	margin-left: 30px;
+}
+p{
+	font-size: 25px;
+	margin-left: 30px;
+}
+.line{
+	height: 7px;
+	width: 1250px;
+	background: lightgray;
+	margin-left: 30px;
+}
+.l{
+	height: 7px;
+	width: 1000px;
+	background: blue;
+	margin-right: 500px;
+}
+.gray{
+	height: 7px;
+	width: 1250px;
+	background: lightgray;
+	margin-left: 30px;
+}
+.red{
+	height: 7px;
+	width: 800px;
+	background: red;
+	margin-right: 600px;
+}
+.green{
+	height: 7px;
+	width: 1100px;
+	background: green;
+	margin-right: 400px;
+}
+.yellow{
+	height: 7px;
+	width: 600px;
+	background: yellow;
+	margin-right: 1000px;
+}
+.pink{
+	height: 7px;
+	width: 700px;
+	background: hotpink;
+	margin-right: 1000px;
+}
+.twi{
+	margin-right: 50px;
+	font-size: 30px;
+
+}
+h5{
+	left: 100px;
+	bottom: 50px;
+	position: relative;
+}
+span{
+	font-size: 35px;
+	left: 50px;
+	bottom: 40px;
+	position: flex;
+}
+.span{
+	left: 130px;
+	top: 8px;
+	position: relative;
+	color: lightgray;
+}
+
+.spa{
+	left: 160px;
+	top: 8px;
+	position: relative;
+	color: lightgray;
+}
+.sp{
+	left: 200px;
+	top: 8px;
+	position: relative;
+	color: lightgray;
+}

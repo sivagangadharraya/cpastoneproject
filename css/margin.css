@@ -1,0 +1,37 @@
+.a{
+	height: 500px;
+	width: 550px;
+	border: 5px solid red;
+
+}
+.b{
+	height: 400px;
+	width: 100px;
+	border: 5px solid green;
+	margin-left: 50px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	float: left;
+	background: lightgrey;
+}
+.c{
+	height: 400px;
+	width: 100px;
+	border: 5px solid green;
+	margin-left: 50px;
+	float: left;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: lightgrey;
+
+}
+.d{
+	height: 400px;
+	width: 100px;
+	border: 5px solid green;
+	margin-right: 50px;
+	float: right;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: lightgrey;
+}

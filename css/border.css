@@ -1,0 +1,12 @@
+.b{
+	height: 600px;
+	width: 500px;
+	background: yellow;
+
+}
+.d{
+	height:100px ;
+	width:200px ;
+	border: 5px dotted black;
+	margin-top: 10px;
+}

@@ -1,0 +1,7 @@
+.o{
+	outline: 10px dashed red;
+	box-shadow: 0 0 0 10px skyblue;
+	height: 100px;
+	width: 300px;
+	background: white;
+}

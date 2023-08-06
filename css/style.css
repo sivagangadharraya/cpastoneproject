@@ -1,0 +1,25 @@
+input[type]{
+	color: red;
+}
+input[type="text"]{
+	color: blue;
+
+}
+input[type="password"]{
+	color: yellow;
+}
+input[type="email"]{
+	color: darkviolet;
+}
+img[src]{
+	border:20px ridge blue;
+}
+h1:hover{
+	color: red;
+}
+h1:visited{
+	color: pink;
+}
+img:visited{
+	color: yellow;
+}

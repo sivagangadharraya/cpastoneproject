@@ -1,0 +1,32 @@
+.a{
+	height: 400px;
+	width: 600px;
+	background: hotpink;
+}
+.b{
+	top:50px;
+	left:50px;
+	position: relative;
+	height: 300px;
+	width: 500px;
+	background: red;
+}
+.c{
+	height: 200px;
+	width: 400px;
+	top: 50px;
+	left: 50px;
+	position: relative;
+	background: orange;
+}
+.d{
+	height: 100px;
+	width: 300px;
+	top: 50px;
+	left: 50px;
+	position: relative;
+	background: blue;
+}
+span{
+	text-align: center;
+}
